@@ -12,3 +12,5 @@
 ## Dotfiles List
 
 排名不分先后
+
+- [Dotfiles of Coelacanthus](https://github.com/CoelacanthusHex/dotfiles)
