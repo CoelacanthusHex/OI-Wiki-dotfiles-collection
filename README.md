@@ -14,3 +14,4 @@
 排名不分先后
 
 - [Dotfiles of Coelacanthus](https://github.com/CoelacanthusHex/dotfiles)
+- [Dotfiles on Windows by AmemiyaShigure(Qyl)](https://github.com/AmemiyaSigure/dotfiles-win)
