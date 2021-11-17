@@ -21,3 +21,7 @@
 - [Avimitin's Neovim](https://github.com/Avimitin/nvim)
 
   ![](./screenshots/avimitin-neovim.png)
+
+- [Avimitin's TMUX](https://github.com/Avimitin/tmux)
+
+  ![](https://raw.githubusercontent.com/Avimitin/tmux/master/tmux-nord.png)
