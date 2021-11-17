@@ -15,3 +15,5 @@
 
 - [Dotfiles of Coelacanthus](https://github.com/CoelacanthusHex/dotfiles)
 - [Dotfiles for Windows by QYL](https://github.com/qyl27/dotfiles-win)
+- [Dotfiles of Senioria](https://github.com/91khr/dotfile)
+
