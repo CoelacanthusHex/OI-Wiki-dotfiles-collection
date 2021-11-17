@@ -18,3 +18,6 @@
 - [Dotfiles of Senioria](https://github.com/91khr/dotfile)
  ![](screenshots/senioria.png)
 
+- [Avimitin's Neovim](https://github.com/Avimitin/nvim)
+
+  ![](./screenshots/avimitin-neovim.png)
