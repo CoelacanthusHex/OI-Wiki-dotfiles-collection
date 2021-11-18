@@ -18,10 +18,20 @@
 - [Dotfiles of Senioria](https://github.com/91khr/dotfile)
  ![](screenshots/senioria.png)
 
+<details>
+  <summary>Dotfiles of Avimitin</summary>
+
 - [Avimitin's Neovim](https://github.com/Avimitin/nvim)
 
-  ![](./screenshots/avimitin-neovim.png)
+  - Editor Interface
+
+  ![ei](./screenshots/avimitin-neovim.png)
+
+  - Debug Interface
+
+  ![di](https://raw.githubusercontent.com/Avimitin/nvim/master/image/dap-debug-cpp.png)
 
 - [Avimitin's TMUX](https://github.com/Avimitin/tmux)
 
-  ![](https://raw.githubusercontent.com/Avimitin/tmux/master/tmux-nord.png)
+  ![at](https://raw.githubusercontent.com/Avimitin/tmux/master/tmux-nord.png)
+</details>
